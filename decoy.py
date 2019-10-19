@@ -1,2 +1,2 @@
 #!/usr/bin/env/python
-print "Hello World 6672"
+print "Hello World 6673"
